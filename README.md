@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111827,100:0a0a0a&height=190&section=header&text=Rohith%20Sheregar&fontSize=46&fontColor=5eead4&fontAlignY=38&animation=twinkling&desc=Full-stack%20systems%20with%20a%20practical%20AI%20edge.&descSize=17&descAlignY=60&descColor=f0a868" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111827,100:0a0a0a&height=190&section=header&text=Rohith%20Sheregar&fontSize=46&fontColor=5eead4&fontAlignY=38&animation=twinkling" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1200&color=5EEAD4&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Building+deployable+software%2C+not+demos;AI%2FML+%C2%B7+Full-Stack+%C2%B7+Developer+Tooling;SMVITM+%C2%B7+VTU+%C2%B7+Karnataka%2C+India" />
 
