@@ -12,7 +12,7 @@
 
 [![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=5eead4)](mailto:rohithraghu3228@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=5eead4)](https://in.linkedin.com/in/rohith-sheregar-076992290)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=5eead4)](https://github.com/rohith-sheregar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=5eead4)](https://rohith-sheregar.vercel.app)
 
 </div>
 
