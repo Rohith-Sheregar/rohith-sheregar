@@ -20,17 +20,17 @@
 
 <div align="center">
 
-<a href="https://rohith-sheregar.github.io/vizo-particles/" target="_blank" rel="noopener">
+<a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
   <img
     src="./assets/vizo-preview.png"
-    alt="Vizo — Interactive ASCII particle animation of Rohith Sheregar"
+    alt="Vizo - Interactive ASCII particle animation of Rohith Sheregar"
     width="100%"
   />
 </a>
 
 <sub>
-  <a href="https://rohith-sheregar.github.io/vizo-particles/" target="_blank" rel="noopener">
-    ✨ Click to open the interactive version — move your cursor to interact
+  <a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
+    ✨ Click to open the interactive version - move your cursor to interact
   </a>
 </sub>
 
