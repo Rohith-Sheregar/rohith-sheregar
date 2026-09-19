@@ -15,11 +15,26 @@
 
 <br>
 
+<table width="100%">
+<tr>
+<td width="38%" valign="middle" align="center">
+
 <a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
-  <img align="left" src="./assets/vizo-preview.png" alt="Rohith Sheregar — Interactive ASCII Particle Simulation" width="310" />
+<img src="./assets/vizo-preview.png" alt="Rohith Sheregar — Interactive ASCII Particle Simulation" width="100%" />
 </a>
 
-&nbsp;
+<br>
+
+<sub><em>🖱️ Click to launch — interact with your cursor in real time</em></sub>
+
+<br><br>
+
+<a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/%E2%9C%A8_Live_Demo-Launch_Interactive_Particles_%E2%86%97-5eead4?style=for-the-badge&labelColor=161b22" alt="Launch Interactive Particle Canvas" />
+</a>
+
+</td>
+<td width="62%" valign="middle">
 
 ### About
 
@@ -27,23 +42,13 @@ Computer Science and Engineering student building deployable software across ful
 
 > I like projects where the architecture matters: secure APIs, reliable data flows, useful AI features, and interfaces that feel clear instead of noisy.
 
-<br>
-
-<div align="center">
-
 | Shipped Builds | Live Demos | Conference Papers | Current CGPA |
 |:---:|:---:|:---:|:---:|
 | **6** | **3** | **1** | **8.44** / 10 |
 
-</div>
-
-<div align="center">
-  <a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener" style="text-decoration: none;">
-    <code>🖱️ Launch Interactive Canvas ↗</code>
-  </a>
-</div>
-
-<br clear="left" />
+</td>
+</tr>
+</table>
 
 <br>
 
