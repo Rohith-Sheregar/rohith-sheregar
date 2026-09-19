@@ -10,6 +10,7 @@
 
 <br>
 
+[![Open to Work](https://img.shields.io/badge/Open_to-SDE_·_AI/ML_·_Full--Stack-161b22?style=for-the-badge&logo=target&logoColor=5eead4)](mailto:rohithraghu3228@gmail.com)
 [![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=5eead4)](mailto:rohithraghu3228@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=5eead4)](https://in.linkedin.com/in/rohith-sheregar-076992290)
 [![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=5eead4)](https://rohith-sheregar.vercel.app)
@@ -46,7 +47,8 @@ Computer Science and Engineering student building deployable software across ful
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=5eead4)
 ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=5eead4)
 ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=5eead4)
-![DeepLabV3+](https://img.shields.io/badge/DeepLabV3+-161b22?style=flat-square&logoColor=5eead4)
+![DeepLabV3+](https://img.shields.io/badge/DeepLabV3+-161b22?style=flat-square&logo=tensorflow&logoColor=5eead4)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-161b22?style=flat-square&logo=langchain&logoColor=5eead4)
 
 **Frontend** &nbsp;
 ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=5eead4)
@@ -56,6 +58,9 @@ Computer Science and Engineering student building deployable software across ful
 ![GSAP](https://img.shields.io/badge/GSAP-161b22?style=flat-square&logo=greensock&logoColor=5eead4)
 
 **Data & Tools** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=f0a868)
+![GCP](https://img.shields.io/badge/GCP-161b22?style=flat-square&logo=googlecloud&logoColor=f0a868)
+![AWS](https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonaws&logoColor=f0a868)
 ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=f0a868)
 ![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=f0a868)
 ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=f0a868)
@@ -67,6 +72,10 @@ Computer Science and Engineering student building deployable software across ful
 <div align="center">
 
 ### ✨ Interactive Particle Canvas
+
+<sub><em>Static preview — click to launch the live version</em></sub>
+
+<br><br>
 
 <a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
   <img
@@ -107,9 +116,9 @@ Computer Science and Engineering student building deployable software across ful
 </td>
 <td width="50%" valign="top">
 
-**[Vessel Attribution](https://github.com/rohith-sheregar/Oil-Spill-Detection)**
-<br>Detects illegal oil discharge in SAR imagery and attributes it to nearby vessels.
-<br>`PyTorch` `OpenCV` `DeepLabV3+` `SAR`
+**[Illegal Bilge-Dumping Detection](https://github.com/rohith-sheregar/Oil-Spill-Detection)**
+<br>4-member team project detecting illegal oil discharge via Sentinel-1 SAR + AIS fusion, reaching 79% combined anomaly-detection accuracy. Research paper in preparation.
+<br>`PyTorch` `Isolation Forest` `Random Forest` `SAR` `AIS`
 
 </td>
 </tr>
@@ -117,8 +126,8 @@ Computer Science and Engineering student building deployable software across ful
 <td width="50%" valign="top">
 
 **[ContextOS](https://github.com/rohith-sheregar/ContextOS)**
-<br>Local AI agent that turns coding sessions into persistent memory and searchable project context.
-<br>`Python` `LLMs` `SQLite`
+<br>Local-first CLI daemon published on PyPI (`pip install contextos-daemon`) that records developer activity and answers natural-language questions about past work.
+<br>`Python` `SQLite` `sqlite-vec` `ONNX` `PyPI`
 
 </td>
 <td width="50%" valign="top">
@@ -148,6 +157,17 @@ Computer Science and Engineering student building deployable software across ful
 </td>
 </tr>
 </table>
+
+<br>
+
+<details>
+<summary><strong>📜 Certifications</strong></summary>
+<br>
+
+- HackerRank Software Engineer Skill Certification
+- Anthropic Academy — Building with the Claude API
+
+</details>
 
 <br>
 
