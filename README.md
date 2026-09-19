@@ -25,7 +25,7 @@
 
 <br>
 
-<sub><em>Interactive canvas — hover or drag to shift the particles</em></sub>
+<sub><em>🖱️ Click to move particles</em></sub>
 
 </td>
 <td width="65%" valign="middle">
