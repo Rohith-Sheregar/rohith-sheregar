@@ -18,44 +18,17 @@
 
 <br>
 
-<div align="center">
-
-<a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
-  <img
-    src="./assets/vizo-preview.png"
-    alt="Rohith Sheregar — Interactive ASCII Particle Simulation"
-    width="480"
-  />
-</a>
-
-<br><br>
-
-<a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
-  <img
-    src="https://img.shields.io/badge/%E2%9C%A8_Live_Demo-Launch_Interactive_Particles_%E2%86%97-5eead4?style=for-the-badge&labelColor=161b22"
-    alt="Launch Interactive Particle Canvas"
-  />
-</a>
-
-<br>
-
-<sub><em>🖱️ Move your cursor over the canvas on desktop (or drag on touch) to interact with the particle matrix in real time</em></sub>
-
-</div>
-
-<br>
-
 ### About
 
-Computer Science and Engineering student building deployable software across full-stack development, machine learning, computer vision, and developer tooling.
+Computer Science and Engineering student building deployable software across full-stack development, machine learning, computer vision, and developer tooling. Currently focused on backend architecture (APIs, auth, role-aware data access), applied AI systems (ML pipelines, LLM tooling, computer vision), and DSA/systems problem solving.
 
 > I like projects where the architecture matters: secure APIs, reliable data flows, useful AI features, and interfaces that feel clear instead of noisy.
 
 <div align="center">
 
-| Project Builds | Current CGPA | Focus |
-|:---:|:---:|:---:|
-| **6** | **8.44** / 10 | AI · Backend · Web · Tooling |
+| Shipped Builds | Live Demos | Conference Papers | Current CGPA |
+|:---:|:---:|:---:|:---:|
+| **6** | **3** | **1** | **8.44** / 10 |
 
 </div>
 
@@ -88,6 +61,35 @@ Computer Science and Engineering student building deployable software across ful
 ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=f0a868)
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=f0a868)
 ![Render](https://img.shields.io/badge/Render-161b22?style=flat-square&logo=render&logoColor=f0a868)
+
+<br>
+
+<div align="center">
+
+### ✨ Interactive Particle Canvas
+
+<a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
+  <img
+    src="./assets/vizo-preview.png"
+    alt="Rohith Sheregar — Interactive ASCII Particle Simulation"
+    width="480"
+  />
+</a>
+
+<br><br>
+
+<a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
+  <img
+    src="https://img.shields.io/badge/%E2%9C%A8_Live_Demo-Launch_Interactive_Particles_%E2%86%97-5eead4?style=for-the-badge&labelColor=161b22"
+    alt="Launch Interactive Particle Canvas"
+  />
+</a>
+
+<br>
+
+<sub><em>🖱️ Move your cursor over the canvas on desktop (or drag on touch) to interact with the particle matrix in real time</em></sub>
+
+</div>
 
 <br>
 
@@ -149,15 +151,10 @@ Computer Science and Engineering student building deployable software across ful
 
 <br>
 
-### Currently Focused On
-
-- **Backend Architecture** — APIs, auth, data models, role-aware access
-- **Applied AI Systems** — ML pipelines, LLM tools, computer vision
-- **Problem Solving** — DSA, systems thinking
+<details>
+<summary><strong>🎓 Academics</strong></summary>
 
 <br>
-
-### Academics
 
 | | |
 |---|---|
@@ -167,12 +164,19 @@ Computer Science and Engineering student building deployable software across ful
 | **CGPA** | 8.44 / 10 |
 | **Expected Graduation** | 2027 |
 
+</details>
+
 <br>
 
-### Participation
+<details>
+<summary><strong>🏆 Participation & Achievements</strong></summary>
+
+<br>
 
 - **National Conference Paper Presentation** — Presented the FlashMind project at a national-level conference, VCET, Puttur, Karnataka.
 - **College Hackathon** — Participated in a hackathon at SMVITM, gaining hands-on experience in rapid prototyping and collaborative development.
+
+</details>
 
 <br>
 
