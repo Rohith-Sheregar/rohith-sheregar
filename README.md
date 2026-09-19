@@ -17,24 +17,18 @@
 
 <table width="100%">
 <tr>
-<td width="38%" valign="middle" align="center">
+<td width="35%" valign="middle" align="center">
 
 <a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
-<img src="./assets/vizo-preview.png" alt="Rohith Sheregar — Interactive ASCII Particle Simulation" width="100%" />
+<img src="./assets/vizo-preview.png" alt="Rohith Sheregar — Interactive ASCII Particle Simulation" width="260" />
 </a>
 
 <br>
 
-<sub><em>🖱️ Click to launch — interact with your cursor in real time</em></sub>
-
-<br><br>
-
-<a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
-<img src="https://img.shields.io/badge/%E2%9C%A8_Live_Demo-Launch_Interactive_Particles_%E2%86%97-5eead4?style=for-the-badge&labelColor=161b22" alt="Launch Interactive Particle Canvas" />
-</a>
+<sub><em>Interactive canvas — hover or drag to shift the particles</em></sub>
 
 </td>
-<td width="62%" valign="middle">
+<td width="65%" valign="middle">
 
 ### About
 
