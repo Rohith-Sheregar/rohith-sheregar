@@ -4,11 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1200&color=5EEAD4&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Building+deployable+software%2C+not+demos;AI%2FML+%C2%B7+Full-Stack+%C2%B7+Developer+Tooling;SMVITM+%C2%B7+VTU+%C2%B7+Karnataka%2C+India" />
 
-<br>
-
-<img width="100%" src="assets/radar-scan.svg" alt="radar scan divider" />
-
-<br>
+<br><br>
 
 [![Open to Work](https://img.shields.io/badge/Open_to-SDE_·_AI/ML_·_Full--Stack-161b22?style=for-the-badge&logo=target&logoColor=5eead4)](mailto:rohithraghu3228@gmail.com)
 [![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=5eead4)](mailto:rohithraghu3228@gmail.com)
@@ -19,19 +15,40 @@
 
 <br>
 
+<table>
+<tr>
+<td width="40%" valign="top" align="center">
+
+<a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
+  <img src="./assets/vizo-preview.png" alt="Rohith Sheregar — Interactive ASCII Particle Simulation" width="100%" />
+</a>
+
+<sub><em>Static preview — click to launch the live version</em></sub>
+
+<br><br>
+
+<a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/%E2%9C%A8_Live_Demo-Launch_Interactive_Particles_%E2%86%97-5eead4?style=for-the-badge&labelColor=161b22" alt="Launch Interactive Particle Canvas" />
+</a>
+
+<sub><em>🖱️ Move your cursor to interact in real time</em></sub>
+
+</td>
+<td width="60%" valign="top">
+
 ### About
 
 Computer Science and Engineering student building deployable software across full-stack development, machine learning, computer vision, and developer tooling. Currently focused on backend architecture (APIs, auth, role-aware data access), applied AI systems (ML pipelines, LLM tooling, computer vision), and DSA/systems problem solving.
 
 > I like projects where the architecture matters: secure APIs, reliable data flows, useful AI features, and interfaces that feel clear instead of noisy.
 
-<div align="center">
-
 | Shipped Builds | Live Demos | Conference Papers | Current CGPA |
 |:---:|:---:|:---:|:---:|
 | **6** | **3** | **1** | **8.44** / 10 |
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -66,26 +83,6 @@ Computer Science and Engineering student building deployable software across ful
 ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=f0a868)
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=f0a868)
 ![Render](https://img.shields.io/badge/Render-161b22?style=flat-square&logo=render&logoColor=f0a868)
-
-<br>
-
-<div align="center">
-
-### ✨ Interactive Particle Canvas
-
-<sub><em>Static preview — click to launch the live version</em></sub>
-
-<br><br>
-
-<a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
-  <img
-    src="./assets/vizo-preview.png"
-    alt="Rohith Sheregar — Interactive ASCII Particle Simulation"
-    width="480"
-  />
-</a>
-
-</div>
 
 <br>
 
