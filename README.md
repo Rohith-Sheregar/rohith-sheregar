@@ -37,14 +37,10 @@ Computer Science and Engineering student building deployable software across ful
 
 </div>
 
-<br>
-
 <div align="center">
-  <a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/%E2%9C%A8_Live_Demo-Launch_Interactive_Particles_%E2%86%97-5eead4?style=for-the-badge&labelColor=161b22" alt="Launch Interactive Particle Canvas" />
+  <a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener" style="text-decoration: none;">
+    <code>🖱️ Launch Interactive Canvas ↗</code>
   </a>
-  <br>
-  <sub><em>🖱️ Click the preview image or badge to launch — interact with your cursor in real time</em></sub>
 </div>
 
 <br clear="left" />
