@@ -19,7 +19,7 @@
 <tr>
 <td width="35%" valign="middle" align="center">
 
-<a href="https://rohith-sheregar.github.io/rohith-sheregar/vizo-particles/" target="_blank" rel="noopener">
+<a href="https://rohithsheregar.github.io/rohithsheregar/vizo-particles/" target="_blank" rel="noopener">
 <img src="./assets/vizo-preview.png" alt="Rohith Sheregar — Interactive ASCII Particle Simulation" width="260" />
 </a>
 
