@@ -89,7 +89,7 @@ Computer Science and Engineering student building deployable software across ful
 **[FlashMind](https://github.com/rohith-sheregar/FlashMind)**
 <br>AI-powered study companion — turns documents into flashcards, quizzes, summaries, and mind maps.
 <br>`Python` `Flask` `MongoDB` `LLM`
-<br>[Live demo →](https://flashmind-backend-tvd8.onrender.com/)
+<br>[Live demo →](https://flashmind-ypqc.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
